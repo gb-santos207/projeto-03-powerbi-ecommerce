@@ -21,7 +21,7 @@ Este projeto tem como objetivo transformar dados brutos de vendas de um e-commer
 - **Categorias:** A cliente Ana Souza é a principal compradora, o que sugere a necessidade de estratégias de retenção (CRM).
 
 ## Visualização do Dashboard
-![Dashboard Power BI](imagens/dashboard_powerbi.png)
+![Dashboard Power BI](imagens/dashboard_powerbi.png.png).
 
 ## Como Reproduzir
 1. Baixe o arquivo `.pbix` e abra no Power BI Desktop.
